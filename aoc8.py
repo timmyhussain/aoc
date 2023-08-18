@@ -80,3 +80,4 @@ def count_trees(filename: str) -> Optional[int]:
 print("Number of trees: ", count_trees("input_8.txt"))
 print("Time complexity: O(n^2)")
 print("Space complexity: O(n ~ n^2)")
+print("test")
